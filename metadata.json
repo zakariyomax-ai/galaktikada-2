@@ -1,0 +1,6 @@
+{
+  "name": "Galaktikada Bir Kun 2 — Kitob va Interaktiv Testlar",
+  "description": "Sa'dullo Quronovning 'Galaktikada bir kun 2' asari bo'yicha 20-50 talik interaktiv testlar, bitta so'zli savollar va muallif tarjimai holi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
